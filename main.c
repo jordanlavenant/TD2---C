@@ -3,6 +3,7 @@
 
 int main(void)
 {
-  test();
+  // test();
+  insert(9);
   return 0;
 }

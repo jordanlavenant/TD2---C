@@ -9,3 +9,11 @@ Ici, avec l'indication du pointeur, on vient toujours faire référence à `*px`
 ![](assets/1.png?raw=true "Avec pointeur")
 Ici, on ne précise pas le pointeur, on indique donc que `*px` est égale à son adresse mémoire, `+ 1`.
 ![](assets/2.png?raw=true "Sans pointeur")
+
+## Insertion
+
+![](assets/3.png?raw=true "Sans pointeur")
+
+## Suppression
+
+## Recherche d'un élement
